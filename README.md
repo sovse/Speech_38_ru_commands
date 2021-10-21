@@ -8,6 +8,8 @@ Recognition of 38 speech commands in Russian. Based on Yandex Cup 2021 ML Challe
 Используемая модель была подготовлена для соревнования Yandex Cup 2021 ML Challenge: ASR. Получило 3 место из 54 участников. с показателем точности 92.01
 
 Пример запуска программы:
+
 python speech_38_ru_commands.py 1.2
+
 где , число 1.2 - это порог уверенности в команде. Можно задавть в диапазоне  0.0 - 7.9999
 

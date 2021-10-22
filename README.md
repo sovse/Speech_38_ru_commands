@@ -1,5 +1,5 @@
 # Speech_38_ru_commands
-Recognition of 38 speech commands in Russian. Based on Yandex Cup 2021 ML Challenge: ASR
+Recognition of 38 speech commands in russian. Based on Yandex Cup 2021 ML Challenge: ASR
 
 Программа умеет распознавать 38 ключевых слов на русском языке , произнесенных в микрофон из списка:
 

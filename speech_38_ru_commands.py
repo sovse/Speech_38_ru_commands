@@ -366,6 +366,9 @@ while True:
     if k>porog:
 
 
-        sys.stdout.write('\r'+str(labels[0])+'  -  '+str(k))
+
+        sys.stdout.write('\r'+str(labels[0].upper())+'  -  '+str(k))
+
+
         sys.stdout.flush()
 #         print(labels[0],k)
